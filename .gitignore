@@ -1,0 +1,47 @@
+# =========================
+# Operating System Files
+# =========================
+#
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+
+# MC files
+asm/
+bin/natives/
+bin/minecraft.jar
+bin/version
+bin/version.json
+backups/
+blueprints/
+cache/
+coremods/
+crash-reports/
+dumps/
+journeymap/data/
+journeymap/icon/
+logs/
+MineMenu/
+reports/
+saves/
+stats/
+1213309934
+minetweaker.log
+nicknames.json
+OpenComputersMod-1.4.1.14-native.64.dll
+options.txt
+usercache.json
+usernamecache.json
